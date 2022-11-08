@@ -9,7 +9,7 @@ and Log vapidKeys
 
 change privateKey, publicKey and "mailto:info@bugraavci.com"
 
-and go to client file( cd web_push_notification/server )
+and go to client file( cd web_push_notification/client )
 
 after you must to use "Go live" extension. Click Go Live and open localhost on your Chrome(its works only Chrome).
 
